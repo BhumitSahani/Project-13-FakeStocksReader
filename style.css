@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 5px;
+    margin: 100px 30%;
+    height: 280px;
+}
+.stock-info {
+    background-color: white;
+    display: block;
+    width: 70%;
+    height: 50%;
+    margin: 10% auto;
+    border-radius: 10px;
+    padding: 20px;
+}
